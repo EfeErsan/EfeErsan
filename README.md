@@ -1,5 +1,11 @@
 ![MasterHead](https://github.blog/wp-content/uploads/2021/10/game-off-gif.gif?fit=2560%2C1084)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+</picture>
+
 <h1 align="center">Hi 👋, I'm Kemal Efe Ersan</h1>
 <h3 align="center">A passionate developer from Türkiye.</h3>
 
