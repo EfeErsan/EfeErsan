@@ -2,7 +2,7 @@
   src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; max-width: 10px">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
