@@ -1,4 +1,4 @@
-![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif)
+![MasterHead](https://cutewallpaper.org/28/desktop-wallpaper-pixel-art-japan/pixel-art-by-1041uuu-toyoi-yuuta-album-on-imgur-pixel-art-design-anime-pixel-art-pixel-art-background.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
