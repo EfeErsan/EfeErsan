@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif)
+![MasterHead](https://camo.githubusercontent.com/ab896cd3183679290d90627cc2c74decff4a9772e79578afe4a2babfa0353bef/68747470733a2f2f6769746875622e626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f31302f67616d652d6f66662d6769662e6769663f6669743d3235363025324331303834)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
