@@ -1,4 +1,4 @@
-![MasterHead]([https://camo.githubusercontent.com/ab896cd3183679290d90627cc2c74decff4a9772e79578afe4a2babfa0353bef/68747470733a2f2f6769746875622e626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f31302f67616d652d6f66662d6769662e6769663f6669743d3235363025324331303834](https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif))
+![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
