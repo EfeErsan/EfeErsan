@@ -1,4 +1,4 @@
-![MasterHead](https://github.blog/wp-content/uploads/2021/10/game-off-gif.gif?fit=2560%2C1084)
+![MasterHead](https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
