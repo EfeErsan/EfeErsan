@@ -37,7 +37,7 @@ Ben bir yazılım geliştiricisi ve teknoloji meraklısıyım. Yeni teknolojiler
 
 ## 📈 GitHub İstatistiklerim
 
-![Kemal Efe Ersan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KullanıcıAdınız&show_icons=true&theme=radical)
+![Kemal Efe Ersan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=efeersan&show_icons=true&theme=radical)
 
 ## 🌟 Öne Çıkan Projeler
 
