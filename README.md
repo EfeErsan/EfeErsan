@@ -16,6 +16,11 @@ Ben Kemal Efe 21 yaşındayım.İstanbul/Türkiye de yaşıyorum.Sporlar ve hobi
 
 ![Kemal Efe Ersan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=efeersan&show_icons=true&theme=radical)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=efeersan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=efeersan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=efeersan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## 📫 Bana Ulaşın
 
 - **Email:** efeersan84@gmail.com
@@ -32,12 +37,9 @@ Ben Kemal Efe 21 yaşındayım.İstanbul/Türkiye de yaşıyorum.Sporlar ve hobi
 
 Bu projeler [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisanslanmıştır.
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-</picture>
+---
+[![](https://visitcount.itsvg.in/api?id=efeersan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=efeersan&label=Profile%20views&color=0e75b6&style=flat" alt="efeersan" /> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
