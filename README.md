@@ -7,6 +7,12 @@
 
 Ben Kemal Efe 21 yaşındayım.İstanbul/Türkiye de yaşıyorum.Sporlar ve hobiler ile ilgilenmeyi seviyorum.Kendimi yazılım alanında geliştirmeye çalışıyorum.Aşağıda ilgilendiğim yazılım dilleri ve yaptığım projeleri görebilirsiniz.
 
+## 💡 İlgi Alanlarım
+
+- Yapay Zeka ve Makine Öğrenimi
+- Web ve Mobil Uygulama Geliştirme
+- Oyun Geliştirme
+
 ## 🔧 Teknik Becerilerim
 
 - **Programlama Dilleri:** Python
@@ -21,12 +27,6 @@ Ben Kemal Efe 21 yaşındayım.İstanbul/Türkiye de yaşıyorum.Sporlar ve hobi
 
 - **Email:** efeersan84@gmail.com
 - **LinkedIn:** [Kemal Efe Ersan](https://www.linkedin.com/in/kemalefeersan/)
-
-## 💡 İlgi Alanlarım
-
-- Yapay Zeka ve Makine Öğrenimi
-- Web ve Mobil Uygulama Geliştirme
-- Oyun Geliştirme
 
 
 ## 📜 Lisans
