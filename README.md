@@ -12,10 +12,6 @@ Ben Kemal Efe 21 yaşındayım.İstanbul/Türkiye de yaşıyorum.Sporlar ve hobi
 - **Programlama Dilleri:** Python
 - **Web Geliştirme:** HTML, CSS
 
-## 📈 GitHub İstatistiklerim
-
-![Kemal Efe Ersan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=efeersan&show_icons=true&theme=radical)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=efeersan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=efeersan&theme=dark&hide_border=false)<br/>
