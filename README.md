@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kemal Efe Ersan</h1>
 
-[image](https://github.com/EfeErsan/EfeErsan/assets/86376035/4d4169d1-d035-4161-977a-ef0e67fb5624)
+![image](https://github.com/EfeErsan/EfeErsan/assets/86376035/4d4169d1-d035-4161-977a-ef0e67fb5624)
 
 
 ## 🚀 Hakkımda
